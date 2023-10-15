@@ -1,13 +1,13 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
-import NavBar from '../components/NavBar';
 import IslandSnowLogo from '../components/IslandSnowLogo';
 import MiddleMenu from '../components/MiddleMenu';
 import FullWidthImage from '../components/FullWidthImage';
+import NavBar from '../components/NavBar';
 import Footer from '../components/Footer';
 
 const IslandSnow = () => (
-  <Container fluid>
+  <Container>
     <NavBar />
     <IslandSnowLogo />
     <MiddleMenu />
