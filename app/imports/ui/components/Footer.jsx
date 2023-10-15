@@ -1,5 +1,5 @@
 import React from 'react';
-import { Col, Container, InputGroup, Form, Button } from 'react-bootstrap';
+import { Col, Container, InputGroup, Form, Button, Row } from 'react-bootstrap';
 
 /** The Footer appears at the bottom of every page. Rendered by the App Layout component. */
 const Footer = () => (
